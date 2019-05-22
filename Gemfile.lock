@@ -2,8 +2,8 @@ PATH
   remote: .
   specs:
     hekate (0.2.0.pre2)
-      aws-sdk-kms (>= 1.13.0, >= 1.13.0)
-      aws-sdk-ssm (>= 1.36.0, >= 1.36.0)
+      aws-sdk-kms (>= 1.21.0, >= 1.21.0)
+      aws-sdk-ssm (>= 1.47.0, >= 1.47.0)
       commander (~> 4.4, >= 4.4.0)
       dotenv (~> 2.2, >= 2.2.1)
       ec2-metadata (~> 0.2, >= 0.2.0)
