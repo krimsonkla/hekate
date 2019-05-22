@@ -21,7 +21,6 @@ Gem::Specification.new do |spec|
   spec.executables   = ["hekate"]
   spec.require_paths = ["lib"]
 
-  spec.add_runtime_dependency "aws-sdk-core", ">=3.26.0", ">= 3.26.0"
   spec.add_runtime_dependency "aws-sdk-kms", ">=1.13.0", ">= 1.13.0"
   spec.add_runtime_dependency "aws-sdk-ssm", ">=1.36.0", ">= 1.36.0"
   spec.add_runtime_dependency "commander", "~> 4.4", ">= 4.4.0"
